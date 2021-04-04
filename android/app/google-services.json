@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98037664893",
+    "project_id": "saay-itmansoor",
+    "storage_bucket": "saay-itmansoor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98037664893:android:7cc218839a7ca278b63514",
+        "android_client_info": {
+          "package_name": "com.flutter.qcabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98037664893-td196m94gr2md8m6182j1titdmq0shcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD918PoPWIs3vGcq6ml0miEiXrKqPreK_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98037664893-td196m94gr2md8m6182j1titdmq0shcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
